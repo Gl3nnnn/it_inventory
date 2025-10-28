@@ -1,0 +1,118 @@
+[2025-09-05 03:26:13] [::1] [unknown] CSRF Token Validation Failed: Login attempt with invalid CSRF token
+[2025-09-05 03:28:21] [::1] [unknown] CSRF Token Validation Failed: Login attempt with invalid CSRF token
+[2025-09-05 03:29:38] [::1] [unknown] CSRF Token Validation Failed: Login attempt with invalid CSRF token
+[2025-09-05 03:30:33] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 03:30:55] [::1] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-05 03:37:39] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 03:54:20] [::1] [unknown] Failed Login Attempt: Wrong password for user: staff
+[2025-09-05 03:54:31] [::1] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-05 03:54:51] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 04:00:50] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 04:41:19] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 05:23:12] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 05:39:03] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-09-05 05:39:45] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 08:02:37] [::1] [unknown] Failed Login Attempt: User not found: admin
+[2025-09-05 08:02:51] [::1] [unknown] Failed Login Attempt: User not found: admin
+[2025-09-05 08:03:05] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 08:18:52] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 08:38:06] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 08:43:12] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 08:49:51] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:04:32] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:12:42] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:14:34] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:14:38] [::1] [patrick] Auto Login: User: patrick via remember me cookie
+[2025-09-05 09:14:44] [::1] [patrick] Auto Login: User: patrick via remember me cookie
+[2025-09-05 09:15:04] [::1] [patrick] Auto Login: User: patrick via remember me cookie
+[2025-09-05 09:15:42] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:19:18] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:21:15] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:21:59] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:23:10] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 09:56:04] [192.168.50.104] [unknown] Failed Login Attempt: Wrong password for user: PATRICK
+[2025-09-05 09:56:14] [192.168.50.104] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 10:15:52] [192.168.50.185] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-05 10:26:26] [::1] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 07:47:57] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 08:28:20] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 08:28:51] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 08:29:04] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 08:43:52] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 08:45:00] [192.168.50.186] [patrick] Successful Login: User: patrick, Role: admin
+[2025-09-08 09:35:50] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:36:10] [192.168.50.186] [unknown] Failed Login Attempt: User not found: sta
+[2025-09-08 09:36:23] [192.168.50.186] [unknown] Failed Login Attempt: Wrong password for user: staff
+[2025-09-08 09:36:36] [192.168.50.186] [admin] Successful Login: User: admin, Role: admin
+[2025-09-08 09:37:08] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:37:32] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:39:19] [192.168.50.104] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:40:08] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:41:48] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:42:47] [192.168.50.186] [Staff] Successful Login: User: staff, Role: staff
+[2025-09-08 09:43:16] [192.168.50.186] [admin] Successful Login: User: admin, Role: admin
+[2025-09-08 09:52:31] [192.168.50.186] [Staff] Successful Login: User: Staff, Role: staff
+[2025-09-08 09:53:21] [192.168.50.186] [admin] Successful Login: User: admin, Role: admin
+[2025-09-08 09:55:14] [192.168.50.100] [admin] Successful Login: User: admin, Role: admin
+[2025-10-17 08:11:36] [::1] [unknown] Failed Login Attempt: User not found: admin@admin.com
+[2025-10-17 08:11:50] [::1] [unknown] Failed Login Attempt: User not found: admin@admin.com
+[2025-10-17 08:12:17] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-17 08:45:44] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 04:22:24] [::1] [unknown] Failed Login Attempt: Wrong password for user: admin
+[2025-10-18 04:22:32] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 05:34:22] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 05:41:52] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 05:45:01] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 05:51:04] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 05:57:57] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:07:48] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:09:30] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:18:06] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:18:24] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:22:55] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:25:55] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:27:25] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:28:18] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:29:07] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:30:00] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:31:00] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:34:01] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:35:39] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:36:00] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:36:47] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:38:27] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:41:35] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:42:03] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:42:22] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:42:57] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:48:18] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:49:12] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:50:01] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:51:20] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:51:59] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:52:11] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:52:23] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:53:38] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:53:51] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 06:55:13] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 07:20:07] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 07:20:20] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 08:11:29] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-18 08:11:38] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 09:26:19] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 09:57:17] [192.168.50.185] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 09:58:26] [192.168.50.187] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 09:58:44] [192.168.50.187] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 10:35:52] [192.168.50.185] [unknown] Failed Login Attempt: Wrong password for user: admin
+[2025-10-20 10:36:06] [192.168.50.185] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 10:42:32] [192.168.50.185] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 10:59:44] [192.168.50.185] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:13:43] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:14:32] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:16:22] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:16:59] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:18:14] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-20 11:18:51] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-21 02:19:28] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-21 02:47:50] [::1] [admin] Successful Login: User: admin, Role: admin
+[2025-10-21 02:52:16] [::1] [admin] Successful Login: User: admin, Role: admin

@@ -1,0 +1,4 @@
+User roles (e.g., Admin can delete, User can only view).
+
+Asset history logs (track when something was assigned, repaired, disposed).
+ADMIN PASSWORD

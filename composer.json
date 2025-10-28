@@ -1,0 +1,13 @@
+{
+    "name": "user/inventory",
+    "autoload": {
+        "psr-4": {
+            "User\\Inventory\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.1",
+        "tecnickcom/tcpdf": "^6.10",
+        "endroid/qr-code": "^5.0"
+    }
+}
